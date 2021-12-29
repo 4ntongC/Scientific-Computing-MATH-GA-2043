@@ -1,0 +1,2 @@
+This aims to generate a low-rank approximation to a large-scale randomized matrix. This compression can lead to quicker calculations in 
+certain problems (calculating the illumination of lightsources, in our case here). 

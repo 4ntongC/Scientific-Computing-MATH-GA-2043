@@ -1,0 +1,2 @@
+Aims to efficiently solve for the least mean squared solution to a randomized over-determined linear system using 3 decomposition methods, 
+the Cholesky Decomposition, SVD Decomposition, and the QR Decomposition. Their solutions are compared against each other to test accuracy. 

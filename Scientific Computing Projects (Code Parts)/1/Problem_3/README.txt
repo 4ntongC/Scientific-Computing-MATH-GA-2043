@@ -1,0 +1,2 @@
+In numeric differentiation, if h is picked too large, truncation error of the method gives a bad approximation; if h is picked too small
+(close to machine precision), rounding error of the computer gives a bad approximation. We aim to find a balance zone between the two. 

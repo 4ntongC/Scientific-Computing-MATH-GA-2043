@@ -1,0 +1,1 @@
+Explores how error in each step adds up in recurrence algorithms.

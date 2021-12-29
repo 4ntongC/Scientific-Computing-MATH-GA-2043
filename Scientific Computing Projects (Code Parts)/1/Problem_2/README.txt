@@ -1,0 +1,2 @@
+This explores the idea of catastrophic cancellation, when 2 large and similar numbers are subtracted against each other, resulting in 
+severe loss of significant digits under the limitation of mantissa length. 
